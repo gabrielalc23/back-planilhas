@@ -1,0 +1,18 @@
+{
+    "name": "gabrielcampos/back-planilhas",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app",
+            "core\\": "core"
+        }
+    },
+    "authors": [
+        {
+            "name": "gabrielalc23",
+            "email": "gabriellopes.campos23@gmail.com"
+        }
+    ],
+    "require": {
+        "nikic/fast-route": "^1.3"
+    }
+}
